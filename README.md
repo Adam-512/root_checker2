@@ -1,10 +1,10 @@
-![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+v1 reference https://github.com/bbedward/root_checker.git
 # root_checker
 
 Plugin that allow flutter to detect rooted device. It's work in :
 
 * Android
-* IOS
+~~* IOS~~
 
 
 ## Getting Started
